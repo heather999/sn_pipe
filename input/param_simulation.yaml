@@ -51,13 +51,13 @@ Simulator :
     Reference File: LC_Test_today.hdf5
 Host Parameters: None         # Host parameters
 Display_LC : #display during LC simulations
-   display: True
+   display: False
    time: 1 #display during time (sec) before closing
 Output:
     directory: Output_Simu
-    save: False
+    save: True
 Multiprocessing:
-    nproc: 1
+    nproc: 4
 Metric: sn_mafsim.sn_maf_simulation
 Pixelisation:
     nside: 64
