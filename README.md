@@ -40,7 +40,7 @@ All rights reserved.
  - to install cvmfs: https://sw.lsst.eu/installation.html
  - ls /cvmfs/sw.lsst.eu/linux-x86_64/lsst_sims/ -> provides a list of lsst_sim releases available.
  - The "setup" is done this way:
-   - source /cvmfs/sw.lsst.eu/linux-x86_64/lsst_sims/sims_w_2019_20/loadLSST.bash
+   - source /cvmfs/sw.lsst.eu/linux-x86_64/lsst_sims/sims_w_2019_40/loadLSST.bash
    - setup lsst_sims
 
 **Important : you have to make this setup prior to any operations described below**
